@@ -1,0 +1,1 @@
+Front End Code - QR code solution
